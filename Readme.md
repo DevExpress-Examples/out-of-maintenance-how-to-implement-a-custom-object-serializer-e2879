@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraPivotGrid_CustomObjectConverter/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGrid_CustomObjectConverter/Form1.vb))
+<!-- default file list end -->
 # How to implement a custom object serializer
 
 
